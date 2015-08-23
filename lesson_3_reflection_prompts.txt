@@ -6,3 +6,6 @@ Maybe I don't want to pull changes from someone else, or I would rather be at le
 
 3) Describe the differences between forks, clones, and branches. When would you use one instead of another?
 Clones are copies of repos. Forks are clones that are exclusive to GitHub on order to enhance version tracking. Branches begin local, usually as experimental features.
+
+4) What is the benefit of having a copy of the last known state of the remote stored locally?
+So that you can work offline to merge changes.
