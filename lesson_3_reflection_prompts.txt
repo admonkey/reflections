@@ -12,3 +12,6 @@ So that you can work offline to merge changes.
 
 5) How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 I work on a file, then send a copy of that file to collaborator. They make changes and send it back to me. This is inefficient because neither of us can work on the file while the other one has the ball.
+
+6) When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+During experimental changes that other collaborators should know about. It's takes an additional step than pushing straight to master.
